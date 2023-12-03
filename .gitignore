@@ -1,0 +1,18 @@
+# Ignore Node.js
+node_modules/
+
+# Ignore Vue.js
+*.vue.js
+*.vue.css
+
+# Ignore Python
+*.pyc
+__pycache__/
+
+# Ignore BudgetMe environment
+budgetme
+budgetme.local
+budgetme.*.local
+budgetme.development.local
+budgetme.test.local
+budgetme.production.local

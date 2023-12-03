@@ -1,0 +1,23 @@
+{
+  "name": "budgetme-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the BudgetMe application",
+  "main": "src/App.vue",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
