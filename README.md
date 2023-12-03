@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/BudgetMe.git
+git clone https://github.com/ionabio/BudgetMe.git
 ```
 
 2. Make a python environment
@@ -76,9 +76,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/yourusername)
+- **Your Name** - *Initial work* - [ionabio](https://github.com/ionabio)
 
-See also the list of [contributors](https://github.com/yourusername/BudgetMe/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ionabio/BudgetMe/contributors) who participated in this project.
 
 ## License
 
